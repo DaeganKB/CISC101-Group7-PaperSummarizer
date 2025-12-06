@@ -1,0 +1,8 @@
+# Module 3: Guardrails
+- Flag missing or empty sections.
+
+- Flag sections under 50 words.
+
+- Verify all information is directly from the text (no hallucinations).
+
+- Truncate overly long prompts to avoid context overload.
