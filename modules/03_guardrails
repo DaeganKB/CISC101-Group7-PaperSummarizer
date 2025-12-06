@@ -1,4 +1,10 @@
 # Module 3: Guardrails
+
+- New variable evidence_mode
+
+- If evidence mode = strict
+  - Only include claims, equations, etc. in text RAN OUT OF TIME
+
 - Flag missing or empty sections.
 
 - Flag sections under 50 words.
