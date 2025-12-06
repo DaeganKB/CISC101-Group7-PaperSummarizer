@@ -1,6 +1,10 @@
 # Module 2: Section Loop
 For each section:
 
+- Collect summary_level
+  - If summary_level = short, summary should be 1-2 sentences.
+  - If summary_level= detailed, summary should be short paragraph and bullet list
+
 - Summarize content.
 
 - Check word count against constraints.
